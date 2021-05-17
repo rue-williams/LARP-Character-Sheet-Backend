@@ -1,0 +1,25 @@
+{
+  "name": "larp-character-sheet-backend",
+  "version": "1.0.0",
+  "description": "DB setup and backend logic for LARP character sheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rue-williams/LARP-Character-Sheet-Backend.git"
+  },
+  "author": "Rue Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rue-williams/LARP-Character-Sheet-Backend/issues"
+  },
+  "homepage": "https://github.com/rue-williams/LARP-Character-Sheet-Backend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "pg": "^8.6.0"
+  }
+}
